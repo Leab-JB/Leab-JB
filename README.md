@@ -79,9 +79,9 @@ Power Apps, Power Automate, Power Pages, Dataverse, AI Hub
 
 Feel free to reach out if you'd like to learn more about any of these projects or collaborate:
 
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🌐 [Portfolio Website](https://yourwebsite.dev) *(if you have one)*
-- 📬 your.email@example.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bakot-ndjock-emmanuel-james-ledoux-29020a286)
+*- 🌐 [Portfolio Website](https://yourwebsite.dev) *(if you have one)*
+*- 📬 your.email@example.com*
 
 > 🚨 *Note: Repositories for the above projects are private. Access can be granted upon request.*
 
