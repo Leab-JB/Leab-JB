@@ -16,8 +16,7 @@ While most of my work is currently private, I’m happy to provide access or wal
 - 🎮 **Unity 3D** – Gameplay programming, optimization, Netcode for GameObjects, and VFX
 - 🌐 **Web Development** – Angular 18 (standalone), ASP.NET Core 8, REST APIs, and deployment pipelines
 - 🧩 **.NET & WPF** – Building rich desktop apps using MVVM, and .NET 8
-- ⚡ **Power Platform** – Power Apps, Power Automate, Power Pages, AI Hub (AI Builder) and Dataverse for business apps
-- 📋 **Scrum & Agile** – Preparing for **Professional Scrum Master I (PSM I)** certification and applying agile in project development
+- 📋 **Microsoft Certified - AZ-204** – Preparing for **Microsoft Certified: Azure Developer Associate** certification
 
 ---
 
