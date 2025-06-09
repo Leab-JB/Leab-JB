@@ -15,7 +15,7 @@ While most of my work is currently private, I’m happy to provide access or wal
 
 - 🎮 **Unity 3D** – Gameplay programming, optimization, Netcode for GameObjects, and VFX
 - 🌐 **Web Development** – Angular 18 (standalone), ASP.NET Core 8, REST APIs, and deployment pipelines
-- 🧩 **.NET & WPF** – Building rich desktop apps using MVVM, and .NET 8
+- 🧩 **.NET & WPF** – Building rich desktop apps using MVVM, XAML and .NET 8
 - 📋 **Microsoft Certified - AZ-204** – Preparing for **Microsoft Certified: Azure Developer Associate** certification
 
 ---
