@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Leab-JB
 
-🎮 Game Developer | 🌐 Full-Stack Web Developer | 🧩 .NET Developer | ⚡ Power Platform Developer
+🎮 Game Developer | 🌐 Full-Stack Web Developer | ⚡ Power Platform Developer
 
 ---
 
@@ -15,7 +15,6 @@ While most of my work is currently private, I’m happy to provide access or wal
 
 - 🎮 **Unity 3D** – Gameplay programming, optimization, Netcode for GameObjects, and VFX
 - 🌐 **Web Development** – Angular 18 (standalone), ASP.NET Core 8, REST APIs, and deployment pipelines
-- 🧩 **.NET & WPF** – Building rich desktop apps using MVVM, XAML and .NET 8
 - 📋 **Microsoft Certified - AZ-204** – Preparing for **Microsoft Certified: Azure Developer Associate** certification
 
 ---
@@ -30,9 +29,6 @@ Unity 3D, C# Scripting, Shader Graph, Netcode
 
 **Web Development**  
 Angular 18, ASP.NET Core 8, Entity Framework Core, REST APIs
-
-**Desktop**  
-WPF (.NET Core/8), MVVM Pattern
 
 **Power Platform**  
 Power Apps, Power Automate, Power Pages, Dataverse, AI Hub
@@ -56,12 +52,6 @@ Power Apps, Power Automate, Power Pages, Dataverse, AI Hub
 
 - 📝 **Blog Platform**  
   Rich text editor, tag/category filtering, public & admin views, EF Core skip navigations.
-
----
-
-### 🧩 .NET Applications
-- 🗂️ **File Sharing Tool**  
-  ASP.NET Core backend with Angular front-end for uploading/downloading large files.
 
 ---
 
