@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer building immersive games, powerful business applications, and scalable web platforms using technologies like Unity, Angular, ASP.NET Core, .NET (WPF), and the Power Platform.  
+I'm a passionate developer building immersive games, powerful business applications, and scalable web platforms using technologies like Unity, Angular, ASP.NET Core, .NET, and the Microsoft Power Platform.  
 While most of my work is currently private, I’m happy to provide access or walkthroughs on request.
 
 ---
@@ -38,12 +38,22 @@ Power Apps, Power Automate, Power Pages, Dataverse, AI Hub
 ## 🧪 Sample Projects (Available on Request)
 
 ### 🎮 Game Dev (Unity)
-- 🔫 **Top-Down Shooter** – PvP + Zombies (currently working on)
+<!---
+- 🔫 **FPS Shooter** – PvP + Zombies (currently working on)
   Local split-screen, Netcode for GameObjects, King of the Hill, Loot & Extract mode.
+--->
+- 🚀 **Leabscape 2**  
+  A peaceful, skill-based rocket-landing game where every burst of thrust matters.  
+  [Game Link](https://leabyva-digital-works.itch.io/leabscape-2)
 
-- 🏗️ **Strategy Builder (Clash-like)**  
-  A Clash of Clans-like gameplay. A learning project.
+- 👑 **Leab Royale Sprint**  
+  An endless runner inspired reimagined with subway surfers move mechanics.  
+  [Game Link](https://leabyva-digital-works.itch.io/leab-royale-sprint)
 
+- 🛸 **LeabGalaxy Strikeforce**  
+  Step into the pilot seat of a forgotten orbital defense drone as Sigma-9 reawakens in a neon-lit scrapyard orbiting a dead world.  
+  [Game Link](https://leabyva-digital-works.itch.io/leabgalaxy-strikeforce)
+  
 ---
 
 ### 🌐 Full-Stack Web Development
